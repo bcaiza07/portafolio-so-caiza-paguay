@@ -1,0 +1,47 @@
+﻿
+==============================================
+        INVENTARIO DE HARDWARE
+==============================================
+
+== Equipo: BRYAN
+== Fecha: 10/03/2026 18:08:49
+
+== Sistema Operativo
+SO: Microsoft Windows 11 Pro
+Version: 10.0.26200
+
+== CPU
+Modelo: AMD Ryzen 5 7535HS with Radeon Graphics        
+Nucleos: 6
+Hilos: 12
+Frecuencia: 3301 MHz
+
+== Cache
+L2: 3072 KB
+L3: 16384 KB
+
+== Memoria RAM
+RAM total: 13.35 GB
+
+== Discos
+
+FriendlyName               MediaType Tamano(GB)
+------------               --------- ----------
+SAMSUNG MZAL8512HFLU-00BL2 SSD           476,94
+
+
+
+== Interfaces de red e IP
+
+InterfaceAlias            IPAddress      
+--------------            ---------      
+Conexión de área local* 2 169.254.69.66  
+Conexión de área local* 1 169.254.176.32 
+Wi-Fi                     192.168.100.19 
+Ethernet                  169.254.207.240
+
+
+
+==============================================
+        FIN DEL INVENTARIO
+==============================================
